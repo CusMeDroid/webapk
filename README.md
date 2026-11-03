@@ -61,15 +61,11 @@ This is a tool for creating Android release files in **.apk** and **.aab** forma
 ## 📬 Get in Touch
 *Contact us for collaborations or to request application development services:*
 
-<div align="left">
-
 | Channel | Contact Info | Direct Action |
 |:---:|:---|:---:|
 | 📧 **Email** | `iyortml@gmail.com` | [<img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iyortml@gmail.com) |
 | 💬 **WhatsApp** | `+62 857-7275-7932` | [<img src="https://img.shields.io/badge/Chat%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/6285772757932) |
 | 📸 **Instagram** | `@suryodwijayanto` | [<img src="https://img.shields.io/badge/Follow%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/suryodwijayanto) |
-
-</div>
 
 ---
 
