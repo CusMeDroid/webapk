@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 WebApk Generator Suite
+<h1>🚀 WebApk Generator Suite</h1>
 
-*Professional Android Release Packaging & Development Service*
+<i>Professional Android Release Packaging & Development Service</i>
 
 <p>
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
